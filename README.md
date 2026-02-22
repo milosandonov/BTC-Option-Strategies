@@ -2,7 +2,8 @@
 
 A quantitative backtest of a **Bitcoin covered call (call overwriting) strategy** over January 2024 – December 2025. The project prices 3-week, 20-delta call options using **Black-76** (forward-based pricing), implements four strategy variants, and produces a comprehensive performance report.
 
-![Strategy Report](BTC_Option_Stragegy_Project.png)
+<img width="736" height="833" alt="image" src="https://github.com/user-attachments/assets/78393c1d-5c2a-4064-bf46-c9e8cdc8f12e" />
+
 
 ---
 
